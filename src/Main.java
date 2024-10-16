@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Hash ejemplo = new Hash();
-        Hash2 ejemplo2 = new Hash2();
+        Has2 ejemplo2 = new Has2();
         Scanner scanner = new Scanner(System.in);
         int opcion;
 
