@@ -1,10 +1,10 @@
 import java.util.HashMap;
 
-public class Has2 {
+public class Hash2 {
 
     private HashMap<Integer, String> mapa;
 
-    public Has2() {
+    public Hash2() {
         mapa = new HashMap<>();
     }
     public void actualizarElemento(int clave, String nuevoValor) {
